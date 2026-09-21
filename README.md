@@ -8,7 +8,8 @@ O **Maré Alta** é uma landing page moderna e responsiva que serve como um atla
 
 ## 📷 Demonstração
 
-![Preview do Projeto](https://githubusercontent.com) 
+![Preview do Projeto](<img width="1896" height="900" alt="Captura de tela 2026-09-21 190708" src="https://github.com/user-attachments/assets/f8558fdf-3c7c-47f9-a33b-96f617a72fe0" />
+) 
 
 
 ---
