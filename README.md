@@ -31,15 +31,7 @@ Se quiser rodar este projeto na sua máquina:
 
 1. Clone o repositório:
    ```bash
-   
-   ```
-2. Navegue até a pasta do projeto:
-   ```bash
- 
-   ```
-3. Abra o arquivo `index.html` diretamente no seu navegador ou utilize a extensão **Live Server** no VS Code.
-
----
+   https://github.com/Lyguinees/Catalogo-mare-alta.git
 
 ## 📄 Licença
 
