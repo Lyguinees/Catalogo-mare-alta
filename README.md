@@ -22,7 +22,7 @@ O projeto foi desenvolvido utilizando tecnologias web fundamentais:
 
 - **HTML5** – Estruturação semântica do conteúdo.
 - **CSS3** – Estilização avançada, layout responsivo e design moderno.
-- **javaScript - Usado para alguns efeitos.
+- **JAVASCRIPT - Usado para alguns efeitos.
 ---
 
 ## 🚀 Como Executar o Projeto Localmente
